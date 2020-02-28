@@ -1,3 +1,3 @@
 static.adsafeprotected.com
 pubads.g.doubleclick.net
-test.com
+assets.adobedtm.com
