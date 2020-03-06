@@ -2,3 +2,11 @@ static.adsafeprotected.com
 pubads.g.doubleclick.net
 assets.adobedtm.com
 www.ojrq.net
+t.appsflyer.com
+app-measurement.com
+auction.unityads.unity3d.com
+rt.applovin.com
+ads.mopub.com
+events.appsflyer.com
+cdp.cloud.unity3d.com
+config.uca.cloud.unity3d.com
